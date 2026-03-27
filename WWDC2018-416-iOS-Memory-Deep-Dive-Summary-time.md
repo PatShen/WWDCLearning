@@ -7,7 +7,7 @@
 - **Session编号**: 416
 - **发布日期**: 2018年6月8日
 - **视频链接**: https://developer.apple.com/cn/videos/play/wwdc2018/416
-- **PDF幻灯片**: https://devstreaming-cdn.apple.com/videos/wwdc/2018/416n2fmzz0f88f/416/416_ios_memory_deep_dive.pdf
+- **PDF幻灯片**: https://devstreaming-cdn.apple.com/videos/wwdc/2018/416n2fmzz0fz88f/416/416_ios_memory_deep_dive.pdf?dl=1
 
 ---
 
